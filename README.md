@@ -9,7 +9,14 @@ Installation
 
 Recurr is hosted on [Packagist](https://packagist.org), meaning you can install it with [Composer](https://getcomposer.org/):
 
-`composer require af/rrule`
+`composer require af/rrule:~1.0`
+
+or add
+
+
+`"af/rrule" : "~1.0"`
+
+to the require section of your application's composer.json file.
 
 RRULE to DateTime objects
 -----------

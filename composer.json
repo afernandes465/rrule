@@ -2,7 +2,7 @@
 	"name": "af/rrule",
 	"description": "PHP library for working with recurrence rules",
 	"keywords": ["rrule", "recurrence", "recurring", "events", "dates"],
-	"homepage": "https://github.com/afernandes465/recurr",
+	"homepage": "https://github.com/afernandes465/rrule",
 	"type": "library",
 	"license": "MIT",
 	"authors": [

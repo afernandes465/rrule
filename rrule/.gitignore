@@ -1,0 +1,4 @@
+/vendor/
+/.idea/
+/composer.lock
+/PhpProject1/nbproject/private/

@@ -9,7 +9,7 @@ Installation
 
 Recurr is hosted on [Packagist](https://packagist.org), meaning you can install it with [Composer](https://getcomposer.org/):
 
-`composer require simshaun/recurr`
+`composer require af/rrule`
 
 RRULE to DateTime objects
 -----------
